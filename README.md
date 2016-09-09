@@ -4,3 +4,7 @@
 double click開啟coding頁面。  
 下圖為Unity中初始的code。  
 ![first](http://imgur.com/Aa4acQX.jpg)
+
+#環境設置  
+在PlayerSetting中選擇如下圖的設置  
+![ENV PlayerSetting](http://imgur.com/hDhidql.jpg)
