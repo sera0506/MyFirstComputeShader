@@ -47,4 +47,4 @@ compute shader需要掛在腳本上來使用，
 64 * 64 (thread groups) * 64 (threads in each group)
 
 #執行結果  
-![final](http://imgur.com/zEvXXD5.jpg)
+![final](http://imgur.com/oegCkdt.jpg)
